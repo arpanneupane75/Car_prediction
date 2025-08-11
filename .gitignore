@@ -54,6 +54,7 @@ cover/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+.ipynb
 
 # IPython
 profile_default/
